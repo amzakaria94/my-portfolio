@@ -161,8 +161,8 @@ const projectData = [
   {
     pName: "Loop Studios",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/loop-studios",
-    pDemoLink: "https://mahmoudali0001.github.io/loop-studios/",
+    pGitHubLink: "https://github.com/ZEXAWY/loop-studios",
+    pDemoLink: "https://zexawy.github.io/loop-studios/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/loop-studios-cover.PNG",
