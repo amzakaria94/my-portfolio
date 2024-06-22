@@ -235,8 +235,8 @@ const projectData = [
   {
     pName: "calc Your Income",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/calc",
-    pDemoLink: "https://mahmoudali0001.github.io/calc/",
+    pGitHubLink: "https://github.com/ZEXAWY/income-calculator",
+    pDemoLink: "https://zexawy.github.io/income-calculator/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "challenge",
     pCover: "./assets/img/projects-img/Covers/calc-cover.PNG",
