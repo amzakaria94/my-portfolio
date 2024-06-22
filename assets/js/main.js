@@ -185,8 +185,8 @@ const projectData = [
   {
     pName: "Twitter clone",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/Twitter-clone",
-    pDemoLink: "https://mahmoudali0001.github.io/Twitter-clone/",
+    pGitHubLink: "https://github.com/ZEXAWY/Twitter-Clone",
+    pDemoLink: "https://zexawy.github.io/Twitter-Clone/",
     pTools: ["Html5", "Css3", "TailwindCss"],
     pCategory: "Web App",
     pCover: "./assets/img/projects-img/Covers/Twitter-clone-cover.PNG",
