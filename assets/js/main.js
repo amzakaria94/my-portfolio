@@ -113,8 +113,8 @@ const projectData = [
   {
     pName: "El King stone",
     pClient: "King stone company",
-    pGitHubLink: "https://github.com/mahmoudali0001/el-king-stone",
-    pDemoLink: "https://mahmoudali0001.github.io/el-king-stone/",
+    pGitHubLink: "https://github.com/ZEXAWY/el-king-stone",
+    pDemoLink: "https://zexawy.github.io/el-king-stone/index.html",
     pTools: ["Html5", "Css3", "JavaScript", "Bootstrap", "wow.js"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/el-king-stone-cover.PNG",
@@ -125,8 +125,8 @@ const projectData = [
   {
     pName: "dgcatalytic",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/dgcatalytic",
-    pDemoLink: "https://mahmoudali0001.github.io/dgcatalytic/",
+    pGitHubLink: "https://github.com/ZEXAWY/dgcatalytic",
+    pDemoLink: "https://zexawy.github.io/dgcatalytic/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/dgcatalytic-cover.PNG",
