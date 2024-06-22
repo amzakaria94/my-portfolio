@@ -197,8 +197,8 @@ const projectData = [
   {
     pName: "Ipda3 Tech",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/ipda3-tech",
-    pDemoLink: "https://mahmoudali0001.github.io/ipda3-tech/",
+    pGitHubLink: "https://github.com/ZEXAWY/ipda3-tech",
+    pDemoLink: "https://zexawy.github.io/ipda3-tech/",
     pTools: ["Html5", "Css3", "Bootstrap"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/ipda3-cover.PNG",
