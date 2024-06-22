@@ -273,6 +273,30 @@ const projectData = [
     pImgTablet: "./assets/img/404.png",
     pImgMobile: "./assets/img/404.png",
   },
+  {
+    pName: "Landing Page: Udacity Project.",
+    pClient: "No One",
+    pGitHubLink: "https://github.com/ZEXAWY/Project-Landing-Page-V2",
+    pDemoLink: "https://zexawy.github.io/Project-Landing-Page-V2/",
+    pTools: ["Html5", "Css3", "JavaScript"],
+    pCategory: "challenge",
+    pCover: "assets/img/projects-img/Covers/udacityProject.png",
+    pImgPc: "assets/img/projects-img/Covers/udacityProject.png",
+    pImgTablet: "./assets/img/404.png",
+    pImgMobile: "./assets/img/404.png",
+  },
+  {
+    pName: "Weather Journal App: Udacity Project.",
+    pClient: "No One",
+    pGitHubLink: "https://github.com/ZEXAWY/weather-journal-app/tree/master",
+    pDemoLink: "https://github.com/ZEXAWY/weather-journal-app/tree/master",
+    pTools: ["Html5", "Css3", "JavaScript"],
+    pCategory: "challenge",
+    pCover: "./assets/img/projects-img/Covers/weatherJournalApp.png",
+    pImgPc: "./assets/img/projects-img/Covers/weatherJournalApp.png",
+    pImgTablet: "./assets/img/404.png",
+    pImgMobile: "./assets/img/404.png",
+  },
 ];
 
 let newArrayOfProjects = projectData.map((el) => {
