@@ -149,8 +149,8 @@ const projectData = [
   {
     pName: "Template 1",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/Template-1",
-    pDemoLink: "https://mahmoudali0001.github.io/Template-1/",
+    pGitHubLink: "https://github.com/ZEXAWY/Template-1",
+    pDemoLink: "https://zexawy.github.io/Template-1/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/Template-1-cover.PNG",
