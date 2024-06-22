@@ -209,8 +209,8 @@ const projectData = [
   {
     pName: "Typing Speed Test Game",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/typing-speed-test-game",
-    pDemoLink: "https://mahmoudali0001.github.io/typing-speed-test-game/",
+    pGitHubLink: "https://github.com/ZEXAWY/typing-speed-test-game",
+    pDemoLink: "https://zexawy.github.io/typing-speed-test-game/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Web App",
     pCover: "./assets/img/projects-img/Covers/typing-speed-test-game-cover.PNG",
