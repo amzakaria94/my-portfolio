@@ -221,8 +221,8 @@ const projectData = [
   {
     pName: "Rock Paper Scissor Game",
     pClient: "No One",
-    pGitHubLink: "https://mahmoudali0001.github.io/Rock-Paper-Scissors/",
-    pDemoLink: "https://mahmoudali0001.github.io/Rock-Paper-Scissors/",
+    pGitHubLink: "https://github.com/ZEXAWY/Rock-Paper-Scissors",
+    pDemoLink: "https://zexawy.github.io/Rock-Paper-Scissors/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Web App",
     pCover: "./assets/img/projects-img/Covers/Rock-Paper-Scissors-cover.PNG",
