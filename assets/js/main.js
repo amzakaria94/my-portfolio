@@ -137,8 +137,8 @@ const projectData = [
   {
     pName: "Landing Page",
     pClient: "No One",
-    pGitHubLink: "https://github.com/mahmoudali0001/landing-page",
-    pDemoLink: "https://mahmoudali0001.github.io/landing-page/",
+    pGitHubLink: "https://github.com/ZEXAWY/landing-page",
+    pDemoLink: "https://zexawy.github.io/landing-page/",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "Website",
     pCover: "./assets/img/projects-img/Covers/landing-page-cover.PNG",
