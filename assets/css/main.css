@@ -177,39 +177,49 @@
     animation: anim-react 2s linear forwards;
   }
 
+  .circle-sql-skill {
+    animation: anim-sql 2s linear forwards;
+  }
+
+  @keyframes anim-sql {
+    100% {
+      stroke-dashoffset: 0;
+    }
+  }
+
   @keyframes anim-html {
     100% {
-      stroke-dashoffset: 70;
+      stroke-dashoffset: 0;
     }
   }
 
   @keyframes anim-css {
     100% {
-      stroke-dashoffset: 90;
+      stroke-dashoffset: 0;
     }
   }
 
   @keyframes anim-js {
     100% {
-      stroke-dashoffset: 105;
+      stroke-dashoffset: 0;
     }
   }
 
   @keyframes anim-bootstrap {
     100% {
-      stroke-dashoffset: 125;
+      stroke-dashoffset: 0;
     }
   }
 
   @keyframes anim-tailwind {
     100% {
-      stroke-dashoffset: 112;
+      stroke-dashoffset: 0;
     }
   }
 
   @keyframes anim-react {
     100% {
-      stroke-dashoffset: 236;
+      stroke-dashoffset: 0;
     }
   }
 

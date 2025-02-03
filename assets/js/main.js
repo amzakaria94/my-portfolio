@@ -244,7 +244,7 @@ const projectData = [
     pImgTablet: "assets/img/404.png",
     pImgMobile: "assets/img/404.png",
   },
-  
+
   {
     pName: "Todo list",
     pClient: "No One",
@@ -288,7 +288,8 @@ const projectData = [
   {
     pName: "Weather Journal App: Udacity Project.",
     pClient: "No One",
-    pGitHubLink: "https://github.com/amzakaria94/weather-journal-app/tree/master",
+    pGitHubLink:
+      "https://github.com/amzakaria94/weather-journal-app/tree/master",
     pDemoLink: "https://github.com/amzakaria94/weather-journal-app/tree/master",
     pTools: ["Html5", "Css3", "JavaScript"],
     pCategory: "challenge",
@@ -411,7 +412,7 @@ upToTop.onclick = () => {
 window.addEventListener("scroll", function () {
   if (skills.offsetTop <= window.pageYOffset + 70) {
     if (!started) {
-      skillsCount.forEach((el) => startCount(el));
+      skillsCount.forEach((el) =>   startCount(el));
     }
     htmlCircle.classList.add("circle-html-skill");
     cssCircle.classList.add("circle-css-skill");
@@ -419,6 +420,11 @@ window.addEventListener("scroll", function () {
     bootstrapCircle.classList.add("circle-bootstrap-skill");
     tailwindCircle.classList.add("circle-tailwind-skill");
     reactCircle.classList.add("circle-react-skill");
+    sqlServer.classList.add("circle-sql-skill");
+    aspNetCore.classList.add("circle-asp-skill");
+    entityFramwork.classList.add("circle-ef-skill");
+    mvc.classList.add("circle-mvc-skill");
+    database.classList.add("circle-database-skill");
     started = true;
 
     upToTop.classList.add("bottom-1");
@@ -451,13 +457,15 @@ window.addEventListener("scroll", function () {
 
 function startCount(el) {
   let goal = el.dataset.skill;
+  console.log(`goal is ${goal}`);
   let mmm = parseInt(el.textContent);
+
   let count = setInterval(() => {
     el.textContent = `${mmm++}%`;
     if (el.textContent == goal) {
       clearInterval(count);
     }
-  }, 20);
+  }, 15);
 }
 
 // ------------------------------------------------------------------- Start shuffle ------------------------------------------------//

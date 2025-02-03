@@ -14,6 +14,12 @@ module.exports = {
         darkSkillInner:
           "inset 4px 4px 6px -1px rgb(123 121 121 / 20%), inset -4px -4px 6px -1px rgb(18 18 18 / 70%), -0.5px -0.5px 0px rgb(61 61 61), 0.5px 0.5px 0px rgba(0,0,0,0.15),0px 12px 10px -10px rgba(0,0,0,0.05)",
       },
+      spacing: {
+        '13': '3.25rem',
+        '15': '3.75rem',
+        '128': '32rem',
+        '144': '36rem',
+      },
       borderRadius: {
         photo_bg: "11% 89% 0% 100% / 73% 50% 50% 27%",
       },
